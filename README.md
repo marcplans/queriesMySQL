@@ -1,2 +1,0 @@
-# queriesMySQL
-MySQL queries exercise
